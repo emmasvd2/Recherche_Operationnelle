@@ -10,7 +10,7 @@ Ce projet a pour but d'implémenter des algorithmes de **coloration de graphes**
 - **Visualiser les graphes colorés** grâce à Graphviz.
 
 ## Structure du Projet
-/ |-- data/ # Fichiers de graphes utilisés | |-- anna.col | |-- myciel3.col | |-- myciel5.col | |-- myciel7.col | |-- queen9_9.col |-- src/ # Scripts Python pour la coloration de graphes | |-- graphe6.py # Implémentation des algorithmes |-- docs/ # Documentation et rapport | |-- Projet RO.pdf |-- results/ # Résultats expérimentaux et visualisations |-- README.md # Documentation principale |-- requirements.txt # Liste des dépendances
+/ |-- data/ # Fichiers de graphes utilisés \ | |-- anna.col | |-- myciel3.col | |-- myciel5.col | |-- myciel7.col | |-- queen9_9.col |-- src/ # Scripts Python pour la coloration de graphes | |-- graphe6.py # Implémentation des algorithmes |-- docs/ # Documentation et rapport | |-- Projet RO.pdf |-- results/ # Résultats expérimentaux et visualisations |-- README.md # Documentation principale |-- requirements.txt # Liste des dépendances
 
 
 ## Algorithmes Implémentés
