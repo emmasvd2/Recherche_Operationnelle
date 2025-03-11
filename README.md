@@ -22,8 +22,6 @@ Ce projet a pour but d'implémenter des algorithmes de **coloration de graphes**
 - `README.md` : Documentation principale 
 
 
-
-
 ## Algorithmes Implémentés
 ### 1️⃣ **Welsh-Powell**
 - Trie les sommets par degré décroissant.
@@ -44,8 +42,8 @@ Ce projet a pour but d'implémenter des algorithmes de **coloration de graphes**
 ## Instructions d'Installation
 1. **Cloner le projet**  
    ```bash
-   git clone https://github.com/emmasvd2/projet-coloration-graphe.git
-   cd projet-coloration-graphe
+   git clone https://github.com/emmasvd2/Recherche_Operationnelle.git
+   cd Recherche_Operationnelle
    ```
 2. **Lancer le projet**
 3. ```bash
@@ -61,8 +59,8 @@ Ce projet a pour but d'implémenter des algorithmes de **coloration de graphes**
 | queen9_9.col | 15                    | 33                   | 0.092      | 1.22       |
 
 
-🔹 Welsh-Powell est plus rapide mais utilise parfois plus de couleurs.
-🔹 Hill-Climbing peut réduire le nombre de couleurs, mais est plus lent.
+- Welsh-Powell est plus rapide mais utilise parfois plus de couleurs.
+- Hill-Climbing peut réduire le nombre de couleurs, mais est plus lent.
 
 **Fonctionnalités**
 - Charger un graphe depuis un fichier DIMACS.
@@ -73,5 +71,5 @@ Ce projet a pour but d'implémenter des algorithmes de **coloration de graphes**
 
 
 **Auteurs**
-👤 Emma Stievenard
-👤 Chahinez Mezouar
+- Emma Stievenard
+- Chahinez Mezouar
