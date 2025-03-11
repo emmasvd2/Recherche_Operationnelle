@@ -11,33 +11,32 @@ Ce projet a pour but d'implémenter des algorithmes de **coloration de graphes**
 
 ## Structure du Projet
 **Fichiers de graphes utilisés**
-- anna.col 
-- myciel3.col 
-- myciel5.col 
-- myciel7.col 
-- queen9_9.col
-- color.unknown 
-
+- `anna.col`
+- `myciel3.col` 
+- `myciel5.col`
+- `myciel7.col` 
+- `queen9_9.col`
+- `color.unknown` 
 - `graphe6.py` : Implémentation des algorithmes 
 - `README.md` : Documentation principale 
 
 
 ## Algorithmes Implémentés
-### 1️⃣ **Welsh-Powell**
+ 1️. **Welsh-Powell**
 - Trie les sommets par degré décroissant.
 - Affecte une couleur valide au sommet non coloré ayant le degré maximal.
 - Répète jusqu'à ce que tous les sommets soient colorés.
 
-✅ **Avantages** : rapide, simple à implémenter.  
-❌ **Inconvénients** : Ne trouve pas toujours une solution optimale.
+**Avantages** : rapide, simple à implémenter.  
+**Inconvénients** : Ne trouve pas toujours une solution optimale.
 
-### 2️⃣ **Hill-Climbing Amélioré**
+2️. **Hill-Climbing Amélioré**
 - Initialise une coloration aléatoire.
 - Modifie itérativement les couleurs pour réduire les conflits.
 - Utilise un critère d'arrêt basé sur le nombre d'itérations et le temps.
 
-✅ **Avantages** : peut trouver des solutions optimisées.  
-❌ **Inconvénients** : peut rester bloqué dans un optimum local.
+**Avantages** : peut trouver des solutions optimisées.  
+**Inconvénients** : peut rester bloqué dans un optimum local.
 
 ## Instructions d'Installation
 1. **Cloner le projet**  
