@@ -57,8 +57,6 @@ queen9_9.col	15	33	0.092	1.22
 - Visualiser un graphe coloré en PNG.
 - Comparer les performances des algorithmes.
 
-**Contributions**
-Les contributions sont les bienvenues ! Ouvrez une issue ou soumettez une pull request.
 
 **Auteurs**
 👤 Emma Stievenard
